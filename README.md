@@ -1,5 +1,4 @@
 # Webcam-Based-Color-Detection-and-Logging-Detected-Colors-to-a-File
-ChatGPT
 
 Real-Time Color Detection with OpenCV 🎨
 
